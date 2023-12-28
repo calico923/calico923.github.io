@@ -7,7 +7,7 @@ html[data-theme="dark"]  {
       &.site-header {
         @include media-query($on-laptop) {
           .page-link {
-            color: #f8f8f8;
+            color: $black-color;
           }
         }
       }
@@ -53,17 +53,17 @@ html[data-theme="dark"]  {
     .site-brand {
       .site-brand-inner {
         &, &:visited {
-          color: #f8f8f8;
+          color: $black-color;
         }
       }
     }
 
     .site-nav .page-link {
-      color: #f8f8f8;
+      color: $black-color;
     }
 
     .ct-language-dropdown {
-      color: #f8f8f8;
+      color: $black-color;
       background-color: $dark-background-color;
       box-shadow: 0 0 3px 1px #0000005b;
     }

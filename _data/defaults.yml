@@ -1,4 +1,7 @@
 home:
-  heading: "Your awesome heading"
-  subheading: "Your awesome subheading"
+#  heading: "Your awesome heading"
+# subheading: "Your awesome subheading"
+# banner: "Your image url"
+  heading: "Calico Blog"
+  subheading: ""
   banner: "Your image url"
